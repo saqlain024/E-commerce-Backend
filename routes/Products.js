@@ -9,4 +9,3 @@ router.post('/', createProduct)
       .patch('/:id', updateProduct)
 
 exports.router = router;
-console.log("hellow")
